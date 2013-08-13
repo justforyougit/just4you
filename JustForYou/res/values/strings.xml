@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Just For You</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash_screen">Just For You</string>
+    <string name="Button_1_WCIDFY">What Can I do For You</string>
+    <string name="Button_2_AE">Add Events</string>
+    <string name="evening_msg">Very Good Evening Putta</string>
+    <string name="noon_msg">Very Good Noon Putta</string>
+    <string name="morning_msg">Very Good Morning Putta</string>
+    <string name="sorry_msg_no_blank">Sorry Putta, No field can be empty</string>
+
+</resources>
